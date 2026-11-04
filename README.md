@@ -1,6 +1,6 @@
 # Ciao, sono Arcasius 👋
 
-![Keblo e Mirrora — portfolio grafico illustrativo](assets/arcasius-showcase.webp)
+![Keblo e Mirrora — portfolio grafico illustrativo](assets/Vetrina%20di%20progetti%20Arcasius_%20Keblo%20e%20Mirrora.png)
 
 *Vetrina grafica dei progetti Keblo e Mirrora. È una composizione illustrativa basata su materiali di progetto, non una singola schermata operativa. Le card di Keblo sono indipendenti e configurabili.*
 
