@@ -1,5 +1,9 @@
 # Ciao, sono Arcasius 👋
 
+![Keblo e Mirrora — portfolio grafico illustrativo](assets/arcasius-showcase.webp)
+
+*Vetrina grafica dei progetti Keblo e Mirrora. È una composizione illustrativa basata su materiali di progetto, non una singola schermata operativa. Le card di Keblo sono indipendenti e configurabili.*
+
 **Software development · AI locale · Architetture modulari**
 
 Progetto e sviluppo applicazioni che combinano intelligenza artificiale, servizi backend, interfacce web e infrastruttura GPU. Mi interessa trasformare idee complesse in sistemi verificabili: dall'architettura al prototipo, dai test al collaudo reale.
